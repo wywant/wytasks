@@ -1,3 +1,3 @@
 # wytasks
 manage tasks 
-close #11
+close #12
