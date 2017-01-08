@@ -15,8 +15,10 @@ https://www.elastic.co/downloads/beats/filebeat
 
 filter可以支持条件表达式
 https://www.elastic.co/guide/en/logstash/5.x/event-dependent-configuration.html
+使用正则
+支持多行日志  表达式的例子
+https://www.elastic.co/guide/en/logstash/5.x/config-examples.html
 
-支持多行日志  
 https://www.elastic.co/guide/en/logstash/current/multiline.html
 
 #logstash 启动命令
@@ -25,3 +27,9 @@ bin\logstash -f pipeline.conf --config.reload.automatic
 插件文档
 https://www.elastic.co/guide/en/logstash/current/codec-plugins.html
 https://www.elastic.co/guide/en/logstash/5.x/filter-plugins.html
+
+过滤日志文档  
+
+https://www.elastic.co/guide/en/logstash/5.x/plugins-filters-drop.html
+
+
