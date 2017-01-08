@@ -19,3 +19,9 @@ https://www.elastic.co/guide/en/logstash/5.x/event-dependent-configuration.html
 支持多行日志  
 https://www.elastic.co/guide/en/logstash/current/multiline.html
 
+#logstash 启动命令
+
+bin\logstash -f pipeline.conf --config.reload.automatic
+插件文档
+https://www.elastic.co/guide/en/logstash/current/codec-plugins.html
+https://www.elastic.co/guide/en/logstash/5.x/filter-plugins.html
