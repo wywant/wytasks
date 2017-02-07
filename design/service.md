@@ -16,6 +16,7 @@
 * parameterSplit
 * bytes.convert.widths : fixWidths, differentWidthAmount, types
 * bytes.convert.dataReader: types
+* convert.toInt
 * converts.*
 
 ##readers
