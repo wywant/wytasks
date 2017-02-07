@@ -11,6 +11,10 @@
 * expression.boolean
 * string.format
 * index.*
+* htmlEncode
+* parameterSplit
+* bytes.converter
+* converts
 
 ##readers
 * file : path, encode
@@ -26,4 +30,7 @@
 * notNull
 * greatThan
 * lessThan
+* true
+* false
+
 
