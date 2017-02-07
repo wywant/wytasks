@@ -2,15 +2,15 @@
 #Actions
 * reader.string.*
 * reader.bytes.*
-* servelet.contentType
-* servlet.output
-* servlet.writer
+* servelet.contentType : contentType
+* servlet.output : key
+* servlet.writer : key
 * servlet.error
 * template.engine.velocity
 * expression.calculator
 * expression.calculator.math
 * expression.boolean
-* string.format
+* string.format : format, parameters
 * index.*
 * htmlEncode
 * parameterSplit
