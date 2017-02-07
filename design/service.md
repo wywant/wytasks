@@ -14,8 +14,9 @@
 * index.*
 * htmlEncode
 * parameterSplit
-* bytes.converter
-* converts
+* bytes.convert.widths : fixWidths, differentWidthAmount, types
+* bytes.convert.dataReader: types
+* converts.*
 
 ##readers
 * file : path, encode
