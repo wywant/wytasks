@@ -1,5 +1,7 @@
 #Wikipedia
 https://en.wikipedia.org/wiki/Open_Data_Protocol
+##Restful API
+Restful API是基于资源而非操作的API
 
 ## Resource identification
 OData 通过一个叫做Resource identification的url http://host/service 来定位资源。
