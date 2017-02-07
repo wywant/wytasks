@@ -8,6 +8,7 @@
 * servlet.error
 * template.engine.velocity
 * expression.calculator
+* expression.calculator.math
 * expression.boolean
 * string.format
 * index.*
