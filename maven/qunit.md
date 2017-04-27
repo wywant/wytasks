@@ -26,3 +26,5 @@ https://github.com/cjdev/qunit-mojo/blob/master/src/test/java/com/cj/qunit/mojo/
 
 http://phantomjs.org/
 
+http://searls.github.io/jasmine-maven-plugin/phantomjs.html
+
