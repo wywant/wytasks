@@ -28,3 +28,5 @@ http://phantomjs.org/
 
 http://searls.github.io/jasmine-maven-plugin/phantomjs.html
 
+http://worklog.kevinclarke.info/2014/08/19/configuring-webdriver-phantomjs-testing-in-maven/
+
