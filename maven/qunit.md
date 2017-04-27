@@ -33,3 +33,6 @@ http://worklog.kevinclarke.info/2014/08/19/configuring-webdriver-phantomjs-testi
 https://blogs.sap.com/2014/05/12/automating-headless-javascript-unit-tests/
 
 http://ajaxian.com/archives/using-maven-to-modularize-javascript-development
+
+http://kylelieber.com/phantomjs-maven-plugin/install-mojo.html#outputDirectory
+
