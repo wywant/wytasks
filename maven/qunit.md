@@ -30,3 +30,6 @@ http://searls.github.io/jasmine-maven-plugin/phantomjs.html
 
 http://worklog.kevinclarke.info/2014/08/19/configuring-webdriver-phantomjs-testing-in-maven/
 
+https://blogs.sap.com/2014/05/12/automating-headless-javascript-unit-tests/
+
+http://ajaxian.com/archives/using-maven-to-modularize-javascript-development
