@@ -14,3 +14,5 @@ http://kylelieber.com/phantomjs-maven-plugin/install-mojo.html
 
 http://www.lagerweij.com/2012/05/04/unit-testing-javascript-with-qunit-and-mockjax/
 
+http://qunitjs.com/
+
