@@ -24,3 +24,5 @@ http://repo1.maven.org/maven2/com/github/klieber/phantomjs-maven-plugin/
 
 https://github.com/cjdev/qunit-mojo/blob/master/src/test/java/com/cj/qunit/mojo/QunitMavenRunnerTest.java
 
+http://phantomjs.org/
+
