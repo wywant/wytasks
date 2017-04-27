@@ -16,3 +16,11 @@ http://www.lagerweij.com/2012/05/04/unit-testing-javascript-with-qunit-and-mockj
 
 http://qunitjs.com/
 
+https://github.com/cjdev/qunit-mojo/blob/master/src/main/java/com/cj/qunit/mojo/QunitMavenRunner.java
+
+https://www.chromestatus.com/features/5678767817097216
+
+http://repo1.maven.org/maven2/com/github/klieber/phantomjs-maven-plugin/
+
+https://github.com/cjdev/qunit-mojo/blob/master/src/test/java/com/cj/qunit/mojo/QunitMavenRunnerTest.java
+
