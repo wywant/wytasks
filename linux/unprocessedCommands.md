@@ -10,20 +10,20 @@ apropos	aptd	aptdcon
 arch	arecordmidi	arm2hpdl
 aseqdump	aseqnet	
 b	
-base64	basename	bash
+base64	
 bashbug	bdftopcf	bdftruncate
 bluetoothctl	bootctl	brasero
 brltty	broadwayd	btmon
 bzexe		
 c	
 c++filt	calendar	cancel
-capsh	captoinfo	cat
+capsh	captoinfo	
 catchsegv	chacl	chage
 chardet	chardet3	chattr
 chcon	cheese	chfn
-chgrp	chown	chrt
+	chrt
 chsh	chvt	cifsiostat
-ckbcomp	cksum	clear
+ckbcomp	cksum	
 clear_console	cmp	col
 colcrt	colrm	column
 comm	compiz	cp
@@ -31,7 +31,7 @@ cpp	crc32	csplit
 cupstestdsc	cupstestppd	curl
 cut	cvt	
 d	
-date	dc	dd
+	dc	
 deallocvt	df	dh_installxmlcatalogs
 dh_pypy	dh_python2	dh_python3
 dialog	diff	diff3
@@ -61,17 +61,17 @@ genisoimage	getconf	geteltorito
 getent	getfacl	gettext
 gettextize	gipddecode	gpasswd
 gpgsplit	gpgv	gprof
-grops	grotty	groups
+grops	grotty	
 gs	gsnd	gtf
 gucharmap	gvfsd	gzexe
 h	
 h2ph	hbpldecode	head
 helpztags	hid2hci	hipercdecode
-host	hostid	hostname
+	hostid	
 hostnamectl		
 i	
 iceauth	ico	iconv
-id	info	infocmp
+	info	infocmp
 infotocap	inputattach	install
 instmodsh	intel_audio_dump	intel_bios_dumper
 intel_bios_reader	intel_error_decode	intel_gtt
@@ -85,11 +85,11 @@ j
 join	journalctl	jpgicc
 json_pp	jwt	jwt3
 k	
-kbd_mode	kbdinfo	kill
+kbd_mode	kbdinfo	
 koi8rxterm		
 l	
 l2ping	l2test	lavadecode
-lcf	ld	ldd
+lcf		ldd
 lessecho	lesskey	lexgrog
 lightdm	line	link
 linkicc	listres	ln
@@ -98,8 +98,8 @@ localedef	locate	logger
 login	logname	look
 lorder	lp	lpq
 lpr	lprm	lpstat
-ls	lsattr	lsb_release
-lscpu	lshw	lspgpot
+	lsattr	lsb_release
+	lshw	lspgpot
 ltrace	luit	lxterm
 lz	lzmainfo	
 m	
@@ -107,7 +107,7 @@ make	manconv	manhole
 manpath	mawk	mcheck
 mcomp	mcookie	md5sum
 memusage	memusagestat	mesg
-min12xxw	mkdir	mkfifo
+min12xxw		mkfifo
 mkfontdir	mkfontscale	mktemp
 mkzftree	mousetweaks	mscompress
 msexpand	msgattrib	msgcat
@@ -115,21 +115,21 @@ msgcmp	msgcomm	msgconv
 msgen	msgfilter	msgfmt
 msggrep	msginit	msgmerge
 msgunfmt	msguniq	mt
-mtrace	mv	
+mtrace		
 n	
-namei	nano	nautilus
+namei	nano	
 nc	newgrp	ngettext
 nice	nl	nlmconv
 nm	nmblookup	nmtui
-nohup	nproc	nroff
+	nproc	nroff
 nsenter	nsupdate	numfmt
 o	
-oakdecode	oclock	od
+oakdecode	oclock	
 omshell	on_ac_power	openvt
 opldecode	orca	
 p	
 pacat	pacmd	padsp
-paperconf	paplay	passwd
+paperconf	paplay	
 paste	patch	pathchk
 pax11publish	pdb2.7	pdb3.4
 pdb3.5	pdf2dsc	pdfdetach
@@ -150,7 +150,7 @@ printerbanner	printf	prtstat
 ps2ascii	ps2epsi	psfaddtable
 psfgettable	psfstriptable	psfxtable
 psicc	ptardiff	ptargrep
-ptx	pulseaudio	pwd
+ptx	pulseaudio	
 pwdx	py3clean	py3compile
 py3versions	pyclean	pycompile
 pydoc3.5	pygettext	pyversions
@@ -161,11 +161,11 @@ ranlib	rctest	rdiffdir
 readelf	readlink	readom
 realpath	remmina	renice
 resize	rev	rhythmbox
-rm	rmdir	rnano
+	rnano
 rpcgen	rstart	rstartd
-runuser		
+		
 s	
-scp	screendump	script
+	screendump	script
 scriptreplay	sdiff	seahorse
 sed	seq	sessreg
 setsid	setterm	setupcon
@@ -173,35 +173,35 @@ sftp	sg	sha1sum
 sha224sum	sha256sum	sha384sum
 sha512sum	shasum	showkey
 showrgb	shred	shuf
-sleep	slxdecode	smproxy
-soelim	sort	sotruss
-spellintian	split	splitfont
-sprof	ssh	startx
+	slxdecode	smproxy
+soelim		sotruss
+spellintian		splitfont
+sprof		startx
 stat	strings	strip
-stty	su	sum
-sync	synclient	syndaemon
+stty	
+	synclient	syndaemon
 syslinux		
 t	
 t1ascii	t1asm	t1binary
 t1disasm	t1mac	t1unmac
-tac	tail	tailf
+tac		tailf
 tap2deb	tap2rpm	tarcat
 taskset	tbl	tclsh
-tee	telnet	tempfile
-test	testparm	tgz
-tic	tificc	time
+	
+testparm	tgz
+tic	tificc	
 timedatectl	timeout	tload
 toe	touch	tr
 transicc	transset	trial
-troff	true	truncate
+troff		truncate
 tsort	tty	twistd
 tzselect		
 u	
 ucf	ucfr	ul
 ulockmgr_server	uname	unexpand
-unicode_start	unicode_stop	uniq
-unity	unlink	unshare
-unzip	upower	uptime
+unicode_start	unicode_stop	
+unity		unshare
+		
 usb_modeswitch	usb_modeswitch_dispatcher	usbmuxd
 users	utmpdump	uuidgen
 uxterm	uz	
@@ -209,12 +209,12 @@ v
 vbetool	vdir	viewres
 vimtutor	vmmouse_detect	volname
 w	
-w	wall	watch
-wc	wftopfa	whatis
-which	whoami	windmc
+
+	wftopfa	
+	windmc
 wish	wodim	write
 x	
-xargs	xbiff	xbrlapi
+	xbiff	xbrlapi
 xcalc	xclipboard	xclock
 xcmsdb	xconsole	xcursorgen
 xcutsel	xditview	xdpyinfo
@@ -232,11 +232,11 @@ xsetroot	xsm	xstdcmap
 xsubpp	xterm	xvidtune
 xvinfo	xwd	xwininfo
 xwud	xxd	xzgrep
-y	
-yes		
+
+		
 z	
-zenity	zforce	zgrep
-zip	zipcloak	zipgrep
+zenity	zforce	
+	zipcloak	
 zipinfo	zipnote	zipsplit
 zjsdecode	zless	zmore
 znew	zsoelim	
