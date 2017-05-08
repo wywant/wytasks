@@ -26,34 +26,33 @@ chsh	chvt	cifsiostat
 ckbcomp	cksum	
 clear_console	cmp	col
 colcrt	colrm	column
-comm	compiz	cp
+comm	compiz	
 cpp	crc32	csplit
-cupstestdsc	cupstestppd	curl
-cut	cvt	
+cupstestdsc	cupstestppd	
+	cvt	
 d	
 	dc	
-deallocvt	df	dh_installxmlcatalogs
+deallocvt		dh_installxmlcatalogs
 dh_pypy	dh_python2	dh_python3
 dialog	diff	diff3
 diffstat	dig	dir
 dircolors	dirname	dlltool
-dmesg	dos2unix	du
+
 dvipdf	dwp	
 e	
 elfedit	empathy	enc2xs
-eog	eqn	eutp
+eog		eutp
 expand	expiry	expr
 f	
 factor	faked	fakeroot
-fallocate	false	fgconsole
-file	find	firefox
+fallocate		fgconsole
+	firefox
 fixcvsdiff	fmt	fold
 font2c	fonttosfnt	foo2hbpl2
 foo2hiperc	foo2hp	foo2lava
 foo2oak	foo2qpdl	foo2slx
 foo2xqx	foo2zjs	free
-from	ftp	fuser
-fusermount		
+from	ftp		
 g	
 gamma4scanimage	gatttool	gcalccmd
 gcc	gcore	gencat
@@ -70,7 +69,7 @@ helpztags	hid2hci	hipercdecode
 	hostid	
 hostnamectl		
 i	
-iceauth	ico	iconv
+iceauth	ico	
 	info	infocmp
 infotocap	inputattach	install
 instmodsh	intel_audio_dump	intel_bios_dumper
@@ -82,7 +81,7 @@ intel_upload_blit_large_map	intel_upload_blit_small	ionice
 ipcmk	ipcs	ippusbxd
 irqbalance	ischroot	
 j	
-join	journalctl	jpgicc
+	journalctl	jpgicc
 json_pp	jwt	jwt3
 k	
 kbd_mode	kbdinfo	
@@ -91,9 +90,9 @@ l
 l2ping	l2test	lavadecode
 lcf		ldd
 lessecho	lesskey	lexgrog
-lightdm	line	link
-linkicc	listres	ln
-loadkeys	locale	localectl
+lightdm	
+linkicc	listres	
+loadkeys		localectl
 localedef	locate	logger
 login	logname	look
 lorder	lp	lpq
@@ -167,7 +166,7 @@ rpcgen	rstart	rstartd
 s	
 	screendump	script
 scriptreplay	sdiff	seahorse
-sed	seq	sessreg
+	sessreg
 setsid	setterm	setupcon
 sftp	sg	sha1sum
 sha224sum	sha256sum	sha384sum
@@ -190,8 +189,8 @@ taskset	tbl	tclsh
 	
 testparm	tgz
 tic	tificc	
-timedatectl	timeout	tload
-toe	touch	tr
+timedatectl		tload
+	tr
 transicc	transset	trial
 troff		truncate
 tsort	tty	twistd
