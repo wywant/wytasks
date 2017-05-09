@@ -158,16 +158,16 @@ qdbus	qpdldecode	qtchooser
 r	
 ranlib	rctest	rdiffdir
 readelf	readlink	readom
-realpath	remmina	renice
+	remmina	renice
 resize	rev	rhythmbox
 	rnano
 rpcgen	rstart	rstartd
 		
 s	
-	screendump	script
+	screendump	
 scriptreplay	sdiff	seahorse
 	sessreg
-setsid	setterm	setupcon
+		setupcon
 sftp	sg	sha1sum
 sha224sum	sha256sum	sha384sum
 sha512sum	shasum	showkey
@@ -176,7 +176,7 @@ showrgb	shred	shuf
 soelim		sotruss
 spellintian		splitfont
 sprof		startx
-stat	strings	strip
+	strings	strip
 stty	
 	synclient	syndaemon
 syslinux		
@@ -192,7 +192,7 @@ tic	tificc
 timedatectl		tload
 	tr
 transicc	transset	trial
-troff		truncate
+troff		
 tsort	tty	twistd
 tzselect		
 u	
@@ -211,7 +211,7 @@ w
 
 	wftopfa	
 	windmc
-wish	wodim	write
+wish	wodim	
 x	
 	xbiff	xbrlapi
 xcalc	xclipboard	xclock
@@ -240,14 +240,8 @@ zipinfo	zipnote	zipsplit
 zjsdecode	zless	zmore
 znew	zsoelim	
 
-cp cut curl
-df dmesg	dos2unix	du
-eqn 
-false file	find fuser fusermount	
-iconv 
-join
-line	link ln locale 
-sed	seq
-timeout toe	touch
+
+ 
+
 
 
