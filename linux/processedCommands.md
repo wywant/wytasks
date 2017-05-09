@@ -42,3 +42,13 @@ xargs
 yes
 
 zgrep zip zipgrep
+
+eqn 
+false file	find fuser fusermount	
+iconv 
+join
+line	link ln locale 
+sed	seq
+timeout toe	touch
+cp cut curl
+df dmesg	dos2unix	du
