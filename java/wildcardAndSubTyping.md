@@ -1,3 +1,3 @@
 
 
-![generics-subtypeRelationship.gif](aaa)
+![generics-subtypeRelationship.gif](generics-subtypeRelationship.gif)
