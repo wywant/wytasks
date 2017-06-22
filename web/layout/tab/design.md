@@ -18,8 +18,9 @@
 
 ##Javascript部分  
 ###构造函数  
-  * tabs的id 用于为anchor加listener
-  
+  * anchor的class 用于为anchor加listener
+  * 
+  * 
   * 
 
 
