@@ -26,3 +26,4 @@ ts文件直接的依赖关系可以通过 typescript import语句申明
 
 
 * 
+https://www.npmjs.com/package/typescript
