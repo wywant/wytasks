@@ -1,8 +1,18 @@
-# 创建AngularJs项目
+# 创建AngularJs项目  
+  [官方教程](https://angular.io/tutorial)  
+  命令行参考 [](https://github.com/angular/angular-cli/wiki)  
+  
+# 设置后台转发  
+  参考[Proxy To Backend](https://github.com/angular/angular-cli/wiki/stories-proxy)  
 
-# 设置后台转发
-
-
+# POC  
+  * Create a Angular Project
+  * Add a local js file 
+  * Add HTTP Support
+  * Add Proxy To Backend configuration
+  * Move the local js file to J2EE Server
+  * Test  
+  
 
 # 参考资料
   [angular/angular-cli](https://github.com/angular/angular-cli)  
