@@ -12,6 +12,9 @@
   * Add Proxy To Backend configuration
   * Move the local js file to J2EE Server
   * Test  
+## HTTPClient
+  [HttpClient](https://angular.io/guide/http)  
+  [HTTP](https://angular.io/tutorial/toh-pt6)  
   
 
 # 参考资料
@@ -20,4 +23,6 @@
   [Proxy To Backend](https://github.com/angular/angular-cli/wiki/stories-proxy)  
   [stories using corporate proxy](https://github.com/angular/angular-cli/wiki/stories-using-corporate-proxy)  
   [angular_cli wiki](https://github.com/angular/angular-cli/wiki)  
+  [Cheat Sheet](https://angular.io/guide/cheatsheet)  
+  
   
