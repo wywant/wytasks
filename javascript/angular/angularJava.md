@@ -15,7 +15,9 @@
 ## HTTPClient
   [HttpClient](https://angular.io/guide/http)  
   [HTTP](https://angular.io/tutorial/toh-pt6)  
-  
+
+## Mockup  
+  将HTTP请求回的数据，通过Angular Template显示在网页上  
 
 # 参考资料
   [angular/angular-cli](https://github.com/angular/angular-cli)  
