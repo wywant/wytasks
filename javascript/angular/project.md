@@ -1,5 +1,5 @@
 # Description
-  Module及其下面的Components, Directives, Pipes, Services只是组建， 与Web Server的关系，还需要**额外的配置文件**  
+  Module及其下面的Components, Directives, Pipes, Services Web Server的关系，还需要**额外的配置文件**  
   一个项目需要考虑需要考虑一些问题  
   * 测试  
   * 编译  
