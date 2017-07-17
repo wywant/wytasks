@@ -8,7 +8,7 @@
 # 创建AngularJs项目  
   [官方教程](https://angular.io/tutorial)  
   命令行参考 [](https://github.com/angular/angular-cli/wiki)  
-  **在新建项目前，必须先升级，新建项目的依赖取决于angular cli的版本**  
+  **在新建项目前，必须先升级，新建项目的module版本依赖取决于angular cli的版本**  
   
 # 设置后台转发  
   参考[Proxy To Backend](https://github.com/angular/angular-cli/wiki/stories-proxy)  
