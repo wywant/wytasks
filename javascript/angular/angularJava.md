@@ -1,7 +1,8 @@
 # 创建AngularJs项目  
   [官方教程](https://angular.io/tutorial)  
   命令行参考 [](https://github.com/angular/angular-cli/wiki)  
-  
+# Upgrade to 4 from 2  
+  [Upgrading](https://github.com/angular/angular-cli#updating-angular-cli)  
 # 设置后台转发  
   参考[Proxy To Backend](https://github.com/angular/angular-cli/wiki/stories-proxy)  
 
