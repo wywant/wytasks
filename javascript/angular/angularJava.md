@@ -27,6 +27,8 @@
 ## Mockup  
   将HTTP请求回的数据，通过Angular Template显示在网页上  
 
+
+
 # 参考资料
   [angular/angular-cli](https://github.com/angular/angular-cli)  
   [Stories describing how to do more with the CLI](https://github.com/angular/angular-cli/wiki/stories)  
@@ -34,5 +36,5 @@
   [stories using corporate proxy](https://github.com/angular/angular-cli/wiki/stories-using-corporate-proxy)  
   [angular_cli wiki](https://github.com/angular/angular-cli/wiki)  
   [Cheat Sheet](https://angular.io/guide/cheatsheet)  
-  
+  [TEMPLATE SYNTAX](https://v2.angular.io/docs/ts/latest/guide/template-syntax.html#!#property-binding)  
   
