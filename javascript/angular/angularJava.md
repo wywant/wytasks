@@ -3,7 +3,12 @@
   命令行参考 [](https://github.com/angular/angular-cli/wiki)  
 # Upgrade to 4 from 2  
   [Upgrading](https://github.com/angular/angular-cli#updating-angular-cli)  
-# 设置后台转发  
+  需要升级的原因  
+  * 之前安装的是Angular 2  
+  * 想使用最新的开发包   
+  * 用命令行生成的项目中的package.json 里面的依赖包都不是最新版本的，比如angular是2.4.0版本的  
+  
+# 设置后台转发  
   参考[Proxy To Backend](https://github.com/angular/angular-cli/wiki/stories-proxy)  
 
 # POC  
