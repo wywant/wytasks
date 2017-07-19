@@ -37,4 +37,4 @@
   [angular_cli wiki](https://github.com/angular/angular-cli/wiki)  
   [Cheat Sheet](https://angular.io/guide/cheatsheet)  
   [TEMPLATE SYNTAX](https://v2.angular.io/docs/ts/latest/guide/template-syntax.html#!#property-binding)  
-  
+  [Structural Directives](https://angular.io/guide/structural-directives)   
