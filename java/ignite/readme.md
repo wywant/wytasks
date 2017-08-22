@@ -15,9 +15,10 @@ https://github.com/apache/ignite/tree/master/examples
 &lt;/property&gt;   
   参考   
   * https://apacheignite.readme.io/docs/durable-memory  
-  * https://apacheignite.readme.io/docs/distributed-persistent-store  
+  * https://apacheignite.readme.io/docs/distributed-persistent-store  
   * https://apacheignite.readme.io/docs/memory-configuration  
   
-
+# 设置对象的索引
+  参考 https://apacheignite.readme.io/docs/indexes#annotation-based-configuration  
   
-  
+  
