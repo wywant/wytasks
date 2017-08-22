@@ -13,8 +13,11 @@ https://github.com/apache/ignite/tree/master/examples
     &lt;property name="defaultMemoryPolicySize" value="#{4L * 1024 * 1024 * 1024}"/&gt;  
   &lt;/bean&gt;  
 &lt;/property&gt;   
-  参考 https://apacheignite.readme.io/docs/durable-memory  
-  参考 https://apacheignite.readme.io/docs/distributed-persistent-store  
+  参考   
+  * https://apacheignite.readme.io/docs/durable-memory  
+  * https://apacheignite.readme.io/docs/distributed-persistent-store  
+  * https://apacheignite.readme.io/docs/memory-configuration  
   
+
   
   
