@@ -21,4 +21,6 @@ https://github.com/apache/ignite/tree/master/examples
 # 设置对象的索引
   参考 https://apacheignite.readme.io/docs/indexes#annotation-based-configuration  
   
-  
+# SQL Query
+  参考 https://apacheignite.readme.io/docs/sql-queries
+  
