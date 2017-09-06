@@ -1,9 +1,13 @@
-## 服务器端
-  * 原始配置 examples 
-  * 
-  * jdbc mysql 配置  
+## SA服务器端存储配置
+  * 原始配置 examples 
+  * Ignite自带配置
+  * 第三方存储，采用jdbc mysql 配置  
 
-## 代码运行  
+## DDL 配置
+  * 通过Java Annotation
+  * 通过
+  
+## 代码运行  
   * 在Java Application里面运行  
   * 在服务器里面运行  
   
