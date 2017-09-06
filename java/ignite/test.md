@@ -4,7 +4,7 @@
   * 第三方存储，采用jdbc mysql 配置  
 
 ## DDL 配置
-  * 通过Java Annotation  
+  * 通过Java Annotations定义DDL  
   * 通过
   
 ## 代码运行  
