@@ -11,3 +11,9 @@
   * insert 或者 put 语句是否执行成功  
   * get是否执行成功  
   * query是否执行成功   
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
