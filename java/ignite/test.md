@@ -17,9 +17,9 @@
   * 在服务器里面运行
   
 ## Result结果  
-  * insert 或者 put 语句是否执行成功
-  * get是否执行成功
-  * query是否执行成功
+  *insert 或者 put 语句是否执行成功
+  *get是否执行成功
+  *query是否执行成功
 
 | Server        | DDL           | Ignite.start  | Run | Insert | Get| Query|
 | ------------- |:-------------:| -----:|---|---|---|---|
