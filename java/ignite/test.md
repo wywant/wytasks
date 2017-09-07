@@ -31,12 +31,6 @@
 |                  |                 |                   |Runnable   |pass    |pass |pass  |
 |                  |                 |IgniteConfiguration|Application|pass    |pass |pass  |
 |                  |                 |                   |Runnable   |pass    |pass |pass  |
-|                  |QueryEntity Based| No Arguments      |Application|pass    |pass |pass  |
-|                  |                 |                   |Runnable   |pass    |pass |pass  |
-|                  |                 | Spring XML Path   |Application|pass    |pass |pass  |
-|                  |                 |                   |Runnable   |pass    |pass |pass  |
-|                  |                 |IgniteConfiguration|Application|pass    |pass |pass  |
-|                  |                 |                   |Runnable   |pass    |pass |pass  |
 |Ignite Persistence|Distributed DDL  | No Arguments      |Application|pass    |pass |pass  |
 |                  |                 |                   |Runnable   |pass    |pass |pass  |
 |                  |                 | Spring XML Path   |Application|pass    |pass |pass  |
@@ -73,3 +67,4 @@
 |                  |                 |                   |Runnable   |pass    |pass |pass  |
 |                  |                 |IgniteConfiguration|Application|pass    |pass |pass  |
 |                  |                 |                   |Runnable   |pass    |pass |pass  |
+
