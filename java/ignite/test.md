@@ -68,3 +68,6 @@
 |                  |                 |IgniteConfiguration|Application|pass    |pass |pass  |
 |                  |                 |                   |Runnable   |pass    |pass |pass  |
 
+## 其他一些问题
+  * 执行DDL能否在mysql数据库里面建表  
+  
