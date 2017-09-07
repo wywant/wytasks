@@ -4,8 +4,10 @@
   * 第三方存储，采用jdbc mysql 配置
 
 ## DDL 配置
-  * 通过Java Annotations定义DDL
-  * 通过
+
+  * DDL Based Configuration
+  * 通过Java Annotations定义DDL
+  * QueryEntity Based Configuration
   
 ## Application中Ignite.start()的方式  
   * 没有参数
