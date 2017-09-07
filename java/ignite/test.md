@@ -21,8 +21,23 @@
   *get是否执行成功
   *query是否执行成功
 
-| Server        | DDL           | Ignite.start  | Run | Insert | Get| Query|
-| ------------- |:-------------:| -----:|---|---|---|---|
-| col 3 is      | right-aligned | $1600 |aaaa|aaaa|aaaa|aaaa|
-| col 2 is      | centered      |   $12 |aaaa|aaaa|aaaa|aaaa|
-| zebra stripes | are neat      |    $1 |aaaa|aaaa|aaaa|aaaa|
+| Server        | DDL           | Ignite.start      | Run       | Insert | Get| Query|
+| ------------- |:-------------:| -----------------:|-----------|--------|-----|------|
+| examples      |Java Annotation| No Arguments      |Application|pass    |pass |pass  |
+|               |               |                   |Runnable   |pass    |pass |pass  |
+|               |               | Spring XML Path   |Application|pass    |pass |pass  |
+|               |               |                   |Runnable   |pass    |pass |pass  |
+|               |               |IgniteConfiguration|Application|pass    |pass |pass  |
+|               |               |                   |Runnable   |pass    |pass |pass  |
+| examples      |Java Annotation| No Arguments      |Application|pass    |pass |pass  |
+|               |               |                   |Runnable   |pass    |pass |pass  |
+|               |               | Spring XML Path   |Application|pass    |pass |pass  |
+|               |               |                   |Runnable   |pass    |pass |pass  |
+|               |               |IgniteConfiguration|Application|pass    |pass |pass  |
+|               |               |                   |Runnable   |pass    |pass |pass  |
+| examples      |Java Annotation| No Arguments      |Application|pass    |pass |pass  |
+|               |               |                   |Runnable   |pass    |pass |pass  |
+|               |               | Spring XML Path   |Application|pass    |pass |pass  |
+|               |               |                   |Runnable   |pass    |pass |pass  |
+|               |               |IgniteConfiguration|Application|pass    |pass |pass  |
+|               |               |                   |Runnable   |pass    |pass |pass  |
