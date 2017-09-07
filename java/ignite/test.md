@@ -5,9 +5,9 @@
 
 ## DDL 配置
 
-  * DDL Based Configuration
-  * 通过Java Annotations定义DDL
-  * QueryEntity Based Configuration
+  * DDL Based Configuration  
+  * 通过Java Annotations定义DDL  
+  * QueryEntity Based Configuration  
   
 ## Application中Ignite.start()的方式  
   * 没有参数
