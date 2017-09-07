@@ -24,20 +24,56 @@
 | Server        | DDL             | Ignite.start      | Run       | Insert | Get| Query|
 | ------------- |:---------------:| -----------------:|-----------|--------|-----|------|
 | examples      |Distributed DDL  | No Arguments      |Application|pass    |pass |pass  |
-|               |                 |                   |Runnable   |pass    |pass |pass  |
-|               |                 | Spring XML Path   |Application|pass    |pass |pass  |
-|               |                 |                   |Runnable   |pass    |pass |pass  |
-|               |                 |IgniteConfiguration|Application|pass    |pass |pass  |
-|               |                 |                   |Runnable   |pass    |pass |pass  |
-| examples      |Java Annotation  | No Arguments      |Application|pass    |pass |pass  |
-|               |                 |                   |Runnable   |pass    |pass |pass  |
-|               |                 | Spring XML Path   |Application|pass    |pass |pass  |
-|               |                 |                   |Runnable   |pass    |pass |pass  |
-|               |                 |IgniteConfiguration|Application|pass    |pass |pass  |
-|               |                 |                   |Runnable   |pass    |pass |pass  |
-| examples      |QueryEntity Based| No Arguments      |Application|pass    |pass |pass  |
-|               |                 |                   |Runnable   |pass    |pass |pass  |
-|               |                 | Spring XML Path   |Application|pass    |pass |pass  |
-|               |                 |                   |Runnable   |pass    |pass |pass  |
-|               |                 |IgniteConfiguration|Application|pass    |pass |pass  |
-|               |                 |                   |Runnable   |pass    |pass |pass  |
+|                  |                 |                   |Runnable   |pass    |pass |pass  |
+|                  |                 | Spring XML Path   |Application|pass    |pass |pass  |
+|                  |                 |                   |Runnable   |pass    |pass |pass  |
+|                  |                 |IgniteConfiguration|Application|pass    |pass |pass  |
+|                  |                 |                   |Runnable   |pass    |pass |pass  |
+|                  |Java Annotation  | No Arguments      |Application|pass    |pass |pass  |
+|                  |                 |                   |Runnable   |pass    |pass |pass  |
+|                  |                 | Spring XML Path   |Application|pass    |pass |pass  |
+|                  |                 |                   |Runnable   |pass    |pass |pass  |
+|                  |                 |IgniteConfiguration|Application|pass    |pass |pass  |
+|                  |                 |                   |Runnable   |pass    |pass |pass  |
+|                  |QueryEntity Based| No Arguments      |Application|pass    |pass |pass  |
+|                  |                 |                   |Runnable   |pass    |pass |pass  |
+|                  |                 | Spring XML Path   |Application|pass    |pass |pass  |
+|                  |                 |                   |Runnable   |pass    |pass |pass  |
+|                  |                 |IgniteConfiguration|Application|pass    |pass |pass  |
+|                  |                 |                   |Runnable   |pass    |pass |pass  |
+|Ignite Persistence|Distributed DDL  | No Arguments      |Application|pass    |pass |pass  |
+|                  |                 |                   |Runnable   |pass    |pass |pass  |
+|                  |                 | Spring XML Path   |Application|pass    |pass |pass  |
+|                  |                 |                   |Runnable   |pass    |pass |pass  |
+|                  |                 |IgniteConfiguration|Application|pass    |pass |pass  |
+|                  |                 |                   |Runnable   |pass    |pass |pass  |
+|                  |Java Annotation  | No Arguments      |Application|pass    |pass |pass  |
+|                  |                 |                   |Runnable   |pass    |pass |pass  |
+|                  |                 | Spring XML Path   |Application|pass    |pass |pass  |
+|                  |                 |                   |Runnable   |pass    |pass |pass  |
+|                  |                 |IgniteConfiguration|Application|pass    |pass |pass  |
+|                  |                 |                   |Runnable   |pass    |pass |pass  |
+|                  |QueryEntity Based| No Arguments      |Application|pass    |pass |pass  |
+|                  |                 |                   |Runnable   |pass    |pass |pass  |
+|                  |                 | Spring XML Path   |Application|pass    |pass |pass  |
+|                  |                 |                   |Runnable   |pass    |pass |pass  |
+|                  |                 |IgniteConfiguration|Application|pass    |pass |pass  |
+|                  |                 |                   |Runnable   |pass    |pass |pass  |
+| jdbc mysql       |Distributed DDL  | No Arguments      |Application|pass    |pass |pass  |
+|                  |                 |                   |Runnable   |pass    |pass |pass  |
+|                  |                 | Spring XML Path   |Application|pass    |pass |pass  |
+|                  |                 |                   |Runnable   |pass    |pass |pass  |
+|                  |                 |IgniteConfiguration|Application|pass    |pass |pass  |
+|                  |                 |                   |Runnable   |pass    |pass |pass  |
+|                  |Java Annotation  | No Arguments      |Application|pass    |pass |pass  |
+|                  |                 |                   |Runnable   |pass    |pass |pass  |
+|                  |                 | Spring XML Path   |Application|pass    |pass |pass  |
+|                  |                 |                   |Runnable   |pass    |pass |pass  |
+|                  |                 |IgniteConfiguration|Application|pass    |pass |pass  |
+|                  |                 |                   |Runnable   |pass    |pass |pass  |
+|                  |QueryEntity Based| No Arguments      |Application|pass    |pass |pass  |
+|                  |                 |                   |Runnable   |pass    |pass |pass  |
+|                  |                 | Spring XML Path   |Application|pass    |pass |pass  |
+|                  |                 |                   |Runnable   |pass    |pass |pass  |
+|                  |                 |IgniteConfiguration|Application|pass    |pass |pass  |
+|                  |                 |                   |Runnable   |pass    |pass |pass  |
