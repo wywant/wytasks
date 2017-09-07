@@ -6,10 +6,12 @@
 ## DDL 配置
   * 通过Java Annotations定义DDL
   * 通过
+  
 ## Application中Ignite.start()的方式  
   * 没有参数
   * 通过指定spring xml路径
   * 通过指定IgniteConfiguration
+  
 ## Run代码运行  
   * 在Java Application里面运行 
   * 在服务器里面运行
