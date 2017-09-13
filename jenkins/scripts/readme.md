@@ -6,3 +6,6 @@ Stapler.getCurrentRequest().getSession().getMaxInactiveInterval() / 60
   
 import org.kohsuke.stapler.Stapler;  
 Stapler.getCurrentRequest().getSession().setMaxInactiveInterval(18000)  
+
+
+https://github.com/jenkinsci/pipeline-examples/
