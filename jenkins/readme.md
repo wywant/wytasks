@@ -16,4 +16,5 @@ https://jenkins.io/doc/book/pipeline/shared-libraries/
 
 https://github.com/jenkinsci/pipeline-plugin/blob/master/COMPATIBILITY.md  
 
+https://www.cloudbees.com/blog/top-10-best-practices-jenkins-pipeline-plugin  
 
