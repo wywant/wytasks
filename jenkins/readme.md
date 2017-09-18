@@ -14,3 +14,6 @@ http://www.groovy-lang.org/syntax.html#_lists
 http://www.groovy-lang.org/documentation.html
 https://jenkins.io/doc/book/pipeline/shared-libraries/
 
+https://github.com/jenkinsci/pipeline-plugin/blob/master/COMPATIBILITY.md  
+
+
