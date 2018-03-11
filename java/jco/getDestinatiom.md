@@ -11,9 +11,9 @@ Exception in thread "main" com.sap.conn.jco.JCoException: (106) JCO_ERROR_RESOUR
 
 # DestinationDataProvider的实现
 JCO自带了
-  * FileDestinationsDataProvider
-  * PropertyFileDestinationDataProvider
-  * SimpleDataProviderImpl
+  * FileDestinationsDataProvider构造函数不可见
+  * PropertyFileDestinationDataProvider构造函数不可见
+  * SimpleDataProviderImpl构造函数不可见
   * CustomDestinationDataProvider.MyDestinationDataProvider 这是例子中的代码
 
 ## FileDestinationsDataProvider
@@ -22,3 +22,10 @@ JCO自带了
    
 ## PropertyFileDestinationDataProvider
   感觉和FileDestinationsDataProvider类似
+
+JCoDestinationManager是在DefaultJCoRuntime中创建出来的，使用了PropertyFileDestinationDataProvider，并且使用了环境变量jco.destinations.dir，所以把配置文件放在目录jco.destinations.dir下
+
+String directory = System.getProperty("jco.destinations.dir", ".");
+DestinationDataProvider defProvider = new PropertyFileDestinationDataProvider(directory);
+
+      
