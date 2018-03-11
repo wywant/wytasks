@@ -14,6 +14,7 @@ JCO自带了
   * FileDestinationsDataProvider
   * PropertyFileDestinationDataProvider
   * SimpleDataProviderImpl
+  * CustomDestinationDataProvider.MyDestinationDataProvider 这是例子中的代码
 
 ## FileDestinationsDataProvider
   构造函数的参数是目录d  
