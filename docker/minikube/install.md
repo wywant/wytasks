@@ -22,4 +22,9 @@ source  /etc/environment
 ## document 
 https://github.com/kubernetes/minikube/releases
 
+# no proxy settings
+in the file /etc/environment,  add 127.0.{1..255}.{1..255},192.168.{1..255}.{1..255} in the no_proxy  
+## Sample:  
+no_proxy="localhost,127.0.0.1,127.0.{1..255}.{1..255},192.168.{1..255}.{1..255}"
 
+after change, run source /etc/environment
