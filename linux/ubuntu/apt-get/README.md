@@ -20,4 +20,11 @@ sources.list
 # 例子
 https://code.visualstudio.com/docs/setup/linux
 
+# 加密解密的钥
+在加入repository的同时，也需要加入密钥，比如
+sudo install -o root -g root -m 644 microsoft.gpg /etc/apt/trusted.gpg.d/  
+来自 https://code.visualstudio.com/docs/setup/linux
+
+# 参考链接
+https://thishosting.rocks/install-java-ubuntu/
 
