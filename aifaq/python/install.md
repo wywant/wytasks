@@ -5,6 +5,7 @@
  * 最好使用virtualenv安装，参考Tensorflow的安装文档
 
 # Jupyter安装
+## Jupyter远程访问
   * 使用jupyter notebook --generate-config命令生成配置文件
   * 修改配置文件
   
