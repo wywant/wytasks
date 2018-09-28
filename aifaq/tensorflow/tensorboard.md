@@ -20,6 +20,11 @@ https://www.tensorflow.org/guide/tensorboard_histograms
 https://www.tensorflow.org/guide/low_level_intro  
 
 # TensorBoard 
+## Scope name
+
+## reduce clutter 
+当有很多Node都有相同的连接时， Auxiliary Node
+
 ## Dependency
 ### Data Dependency
 Tensor流的方向，用实线表示
