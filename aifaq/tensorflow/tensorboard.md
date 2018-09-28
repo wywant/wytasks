@@ -21,6 +21,7 @@ https://www.tensorflow.org/guide/low_level_intro
 
 # TensorBoard 
 ## Scope name
+让页面更好地组织
 
 ## reduce clutter 
 当有很多Node都有相同的连接时， Auxiliary Node
