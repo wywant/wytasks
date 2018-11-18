@@ -41,3 +41,10 @@ docker-compose up -d
 
 ### https://docs.phpmyadmin.net/en/latest/setup.html#installing-using-docker
 安装
+
+# 其他参考
+## https://docs.docker.com/compose/compose-file/compose-file-v2/#platform
+## https://hub.docker.com/r/phpmyadmin/phpmyadmin/
+## https://docs.docker.com/compose/reference/stop/
+
+
