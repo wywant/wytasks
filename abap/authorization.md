@@ -8,9 +8,9 @@
 运行SU21
 # 问题
 ## No RFC authorization for function module
-### 解决方案（）
+### 解决方案（没有经过测试）
 让用户有对应的function module的S_RFC权限， 
-首先要添加S_RFC,可以在SU22中加
+在SU22中给指定的Function Moduel添加S_RFC权限，这应该会在Function Module层次上添加Authorization,而不需要添加到用户。
 
 ### Authorization Object S_RFC 
 #### Definition
