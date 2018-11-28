@@ -2,7 +2,8 @@
 运行t-code SU53
 # 查看用户的Authorizations
 运行t-code SUIM查看  
-运行t-code SU24查看
+运行t-code SU24查看  
+Transaction: stusobtrace  
 # 维护对象的Authorizations
 运行 t-code SU22
 # 查看Authorization Objects
