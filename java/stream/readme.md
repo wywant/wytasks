@@ -39,10 +39,37 @@
   
 # 从接口角度来看
 ## Predicate
+
+  * filter
+  * anyMatch
+  * allMatch
+  * noneMatch
+
 ## Function ToDoubleFunction ToIntFunction  ToLongFunction
+
+  * map
+  * mapToInt
+  * mapToLong
+  * mapToDouble
+  * flatMap
+  * flatMapToInt
+  * flatMapToLong
+  * flatMapToDouble
+
 ## Consumer
+
+  * peek
+  * forEach
+  * forEachOrdered
+
 ## Collector
+collect
 ## Comparator
+
+  * sorted
+  * min
+  * max
+
 ## BinaryOperator
 ## BiFunction
 ## IntFunction
