@@ -38,4 +38,11 @@
   * toArray
   
 # 从接口角度来看
-
+## Predicate
+## Function ToDoubleFunction ToIntFunction  ToLongFunction
+## Consumer
+## Collector
+## Comparator
+## BinaryOperator
+## BiFunction
+## IntFunction
