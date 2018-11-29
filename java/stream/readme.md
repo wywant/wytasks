@@ -74,5 +74,14 @@ collect
 ## BiFunction
 ## IntFunction
 
-  * toArray
+###  toArray
+```
+String[] stringArray = stringStream.toArray(String[]::new);
+```
+```
+Stream<String> stringStream = ...;
+String[] stringArray = stringStream.toArray(size -> new String[size]);
+```
+https://stackoverflow.com/questions/23079003/how-to-convert-a-java-8-stream-to-an-array
+
   
