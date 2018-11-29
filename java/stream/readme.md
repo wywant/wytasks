@@ -73,3 +73,6 @@ collect
 ## BinaryOperator
 ## BiFunction
 ## IntFunction
+
+  * toArray
+  
