@@ -71,7 +71,19 @@ collect
   * max
 
 ## BinaryOperator
+BiFunction的特例
 ## BiFunction
+拥有两个参数的的函数
+
+## BiConsumer
+拥有两个参数的Consumer
+```
+ <R> R collect(Supplier<R> supplier,
+                  BiConsumer<R, ? super T> accumulator,
+                  BiConsumer<R, R> combiner);
+```
+accumulator的两个参数是supplier创建出的对象R和element  
+combiner的两个参数是两个R  
 ## IntFunction
 
 ###  toArray
