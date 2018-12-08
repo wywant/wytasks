@@ -11,4 +11,5 @@ The ENV instruction sets the environment variable <key> to the value <value>. Th
   
 ## LABEL
 不可以通过RUN echo ${HELLO} 输出  
+To view an image’s labels, use the docker inspect command.
 
