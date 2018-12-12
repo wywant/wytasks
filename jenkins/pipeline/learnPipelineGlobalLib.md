@@ -3,7 +3,10 @@
 
 ## 开发工具
 
-## 开发工具与Jenkins的集成
+### 参考文档
+[Pipeline Development Tools](https://jenkins.io/doc/book/pipeline/development/)  
+
+### 开发工具与Jenkins的集成
 
 ## Git Repositories
 
