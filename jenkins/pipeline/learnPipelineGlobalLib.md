@@ -1,5 +1,7 @@
 # 环境搭建
 ## 安装本地Jenkins
+### 需要安装的Jenkins插件
+Job DSL	
 
 ## 开发工具
 
