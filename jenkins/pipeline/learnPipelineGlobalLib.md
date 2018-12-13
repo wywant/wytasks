@@ -31,3 +31,20 @@ https://marketplace.visualstudio.com/items?itemName=janjoerke.jenkins-pipeline-l
 
 [Tutorial Using the Jenkins Job DSL](https://github.com/jenkinsci/job-dsl-plugin/wiki/Tutorial---Using-the-Jenkins-Job-DSL)  
 
+# 一些心得
+## Jenkinsfile里面调用groovy代码
+### 前提
+首先在Jenkins配置里面加到Global Pipeline Libraries里面
+
+### Global Pipeline Libraries
+   * global variables也就是vars目录下的代码中，可以调用src目录下面的代码，通过import
+
+### 在Jenkinsfile里面调用Global Library里面的class和global variables
+   可行
+
+### 在Jenkinsfile里面调用当前repository里面的class
+   没有调通
+
+# 一些问题
+## 为什么要在global pipeline library里面加上Jenkinsfile文件
+
