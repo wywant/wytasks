@@ -43,7 +43,7 @@ https://marketplace.visualstudio.com/items?itemName=janjoerke.jenkins-pipeline-l
    可行
 
 ### 在Jenkinsfile里面调用当前repository里面的class
-   没有调通
+   没有调通，不知道怎么弄
 
 # 一些问题
 ## 为什么要在global pipeline library里面加上Jenkinsfile文件
