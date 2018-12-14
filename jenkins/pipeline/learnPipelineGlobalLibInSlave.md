@@ -6,5 +6,11 @@
 
 # 测试环境的准备
 ## 准备Slave
-支持JDK
+安装JDK
+
+## 配置Slave
+
+# 创建Jenkins Job
+设置Job在特定Label的Slave上面运行
+
 
