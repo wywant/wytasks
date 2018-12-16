@@ -25,5 +25,7 @@ previousBuild nextBuild upstreamBuilds
 projectName fullProjectName
 ### build related
 description ***id*** number currentResult resultIsBetterOrEqualTo(String) resultIsWorseOrEqualTo(String) displayName fullDisplayName 
+### scm related
+changeSets
 
  
