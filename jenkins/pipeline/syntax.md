@@ -67,6 +67,20 @@ pipeline
   - stages
     - stage
       - when
+        - branch
+        - buildingTag
+        - changelog
+        - changeset
+        - changeRequest
+        - environment
+        - equals
+        - expression
+        - tag
+        - not
+        - allOf
+        - anyOf
+        - triggeredBy
+
       
   - steps
     - script
