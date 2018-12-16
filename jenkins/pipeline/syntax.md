@@ -42,6 +42,13 @@ pipeline
     - maven
     - jdk
     - gradle
+  - input
+    - message
+    - id
+    - ok
+    - submitter
+    - submitterParameter
+    - parameters
 
   - agent
 
@@ -58,7 +65,9 @@ pipeline
     - condition cleanup
 
   - stages
-  - stage
+    - stage
+      - when
+      
   - steps
     - script
 
