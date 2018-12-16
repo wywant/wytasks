@@ -90,6 +90,8 @@ pipeline
         - allOf
         - anyOf
         - triggeredBy
+      - parallel
+        - stage
 
       
   - section steps
