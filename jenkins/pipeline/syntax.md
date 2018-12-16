@@ -10,8 +10,8 @@ top level and stage level
 Containing a sequence of one or more stage directives, the stages section is where the bulk of the "work" described by a Pipeline will be located. 
 
 pipeline
-  - environment
-  - options
+  - directive environment
+  - directive options
     - buildDiscarder
     - checkoutToSubdirectory
     - disableConcurrentBuilds
@@ -26,7 +26,7 @@ pipeline
     - timestamps
     - parallelsAlwaysFailFast
 
-  - parameters
+  - directive parameters
     - string
     - text
     - booleanParam
@@ -34,11 +34,11 @@ pipeline
     - file
     - password
 
-  - triggers
+  - directive triggers
     - cron
     - pollSCM
     - upstream
-  - tools
+  - directive tools
     - maven
     - jdk
     - gradle
@@ -65,7 +65,7 @@ pipeline
     - condition cleanup
 
   - section stages
-    - stage
+    - directive stage
       - when
         - branch
         - buildingTag
