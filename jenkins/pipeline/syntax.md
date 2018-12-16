@@ -50,9 +50,9 @@ pipeline
     - submitterParameter
     - parameters
 
-  - agent
+  - section agent
 
-  - post 
+  - section post 
     - condition always
     - condition changed
     - condition fixed
@@ -64,7 +64,7 @@ pipeline
     - condition unsuccessful
     - condition cleanup
 
-  - stages
+  - section stages
     - stage
       - when
         - branch
@@ -82,7 +82,7 @@ pipeline
         - triggeredBy
 
       
-  - steps
+  - section steps
     - script
 
 
