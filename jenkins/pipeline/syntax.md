@@ -51,6 +51,16 @@ pipeline
     - parameters
 
   - section agent
+    - any
+    - none
+    - label
+    - node
+    - docker
+    - dockerfile
+    - label
+    - customWorkspace
+    - reuseNode
+    - args
 
   - section post 
     - condition always
