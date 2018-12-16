@@ -92,6 +92,7 @@ pipeline
         - triggeredBy
       - parallel
         - stage
+      - steps
 
       
   - section steps
