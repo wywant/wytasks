@@ -19,6 +19,16 @@ pipeline
   - agent
 
   - post 
+    - always
+    - changed
+    - fixed
+    - regression
+    - aborted
+    - failure
+    - success
+    - unstable
+    - unsuccessful
+    - cleanup
 
   - stages
   - stage
