@@ -19,16 +19,16 @@ pipeline
   - agent
 
   - post 
-    - always
-    - changed
-    - fixed
-    - regression
-    - aborted
-    - failure
-    - success
-    - unstable
-    - unsuccessful
-    - cleanup
+    - condition always
+    - condition changed
+    - condition fixed
+    - condition regression
+    - condition aborted
+    - condition failure
+    - condition success
+    - condition unstable
+    - condition unsuccessful
+    - condition cleanup
 
   - stages
   - stage
