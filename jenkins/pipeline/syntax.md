@@ -12,9 +12,36 @@ Containing a sequence of one or more stage directives, the stages section is whe
 pipeline
   - environment
   - options
+    - buildDiscarder
+    - checkoutToSubdirectory
+    - disableConcurrentBuilds
+    - newContainerPerStage
+    - overrideIndexTriggers
+    - preserveStashes
+    - quietPeriod
+    - retry
+    - skipDefaultCheckout
+    - skipStagesAfterUnstable
+    - timeout
+    - timestamps
+    - parallelsAlwaysFailFast
+
   - parameters
+    - string
+    - text
+    - booleanParam
+    - choice
+    - file
+    - password
+
   - triggers
+    - cron
+    - pollSCM
+    - upstream
   - tools
+    - maven
+    - jdk
+    - gradle
 
   - agent
 
