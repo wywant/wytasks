@@ -8,7 +8,7 @@ top level and stage level
 
 # stages
 Containing a sequence of one or more stage directives, the stages section is where the bulk of the "work" described by a Pipeline will be located. 
-
+# declartive pipeline
 pipeline
   - directive environment
   - directive options
