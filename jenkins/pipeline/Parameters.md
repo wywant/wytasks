@@ -4,7 +4,9 @@ https://jenkins.io/doc/book/pipeline/syntax/#parameters
 # Parameters Generator
 http://localhost:8080/directive-generator/
 
-
+# read credentials
+AN_ACCESS_KEY = credentials('my-prefined-secret-text')  
+https://jenkins.io/doc/book/pipeline/syntax/#environment
 
 # References
 https://medium.com/@Lenkovits/jenkins-pipelines-and-their-dirty-secrets-1-9e535cd603f4  
