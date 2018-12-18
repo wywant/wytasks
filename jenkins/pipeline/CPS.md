@@ -10,6 +10,22 @@ This is contrasted with direct style,
 A function written in continuation-passing style takes an extra argument: 
    an explicit "continuation", i.e. a function of one argument.
 ```
+```
+When the CPS function has computed its result value, 
+it "returns" it by calling the continuation function with this value as the argument. 
+That means that when invoking a CPS function, 
+the calling function is required to supply a procedure to be invoked with the subroutine's "return" value. 
+```
+
+In wikipedia [Direct style](https://en.wikipedia.org/wiki/Direct_style)  
+```
+In computer programming, direct style is the usual style of sequential programming, 
+in which control is passed implicitly by simply going to the next line, 
+by subroutine calls, or by constructs such as return, yield, or await. 
+It is contrasted with continuation-passing style, 
+in which control is passed explicitly in the form of a continuation.
+```
+
 
 # Continuation
 In wikipedia, [continuation](https://en.wikipedia.org/wiki/Continuation). 
