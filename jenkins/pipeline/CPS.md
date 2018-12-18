@@ -25,7 +25,9 @@ by subroutine calls, or by constructs such as return, yield, or await.
 It is contrasted with continuation-passing style, 
 in which control is passed explicitly in the form of a continuation.
 ```
-
+```
+Every call in CPS is a tail call, and the continuation is explicitly passed. 
+```
 
 # Continuation
 In wikipedia, [continuation](https://en.wikipedia.org/wiki/Continuation). 
