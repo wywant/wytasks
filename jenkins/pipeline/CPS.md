@@ -5,7 +5,8 @@ In wikipedia, [continuation](https://en.wikipedia.org/wiki/Continuation).
  a continuation is an abstract representation of the control state of a computer program.
 ```
 ```
-Continuations are useful for encoding other control mechanisms in programming languages such as exceptions, generators, coroutines, and so on.
+Continuations are useful for encoding other control mechanisms in programming languages
+such as exceptions, generators, coroutines, and so on.
 ```
 In [The Javaflow Component](http://commons.apache.org/sandbox/commons-javaflow/)
 ```
