@@ -9,3 +9,6 @@ https://jenkinsci.github.io/job-dsl-plugin/
 [Steps Reference](http://localhost:8080/pipeline-syntax/html)  
 [Global Variables Reference](http://localhost:8080/pipeline-syntax/globals)  
 [IntelliJ IDEA GDSL](http://localhost:8080/pipeline-syntax/gdsl)  
+
+# Jenkins Javadoc
+https://javadoc.jenkins-ci.org/
