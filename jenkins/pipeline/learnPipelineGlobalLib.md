@@ -43,8 +43,13 @@ https://marketplace.visualstudio.com/items?itemName=janjoerke.jenkins-pipeline-l
    可行
 
 ### 在Jenkinsfile里面调用当前repository里面的class
-   没有调通，找不到相关的类， 不知道怎么弄
-
+通过load方法， 并且有两种调用方法，具体参考 [load file](https://github.com/jenkinsci/pipeline-examples/tree/master/pipeline-examples/load-from-file)
+```
+ def externalMethod = load("externalMethod.groovy")
+ externalMethod.lookAtThis("Steve")
+ def externalCall = load("externalCall.groovy")
+    externalCall("Steve")
+```
 # 一些问题
 ## 为什么要在global pipeline library里面加上Jenkinsfile文件
 
