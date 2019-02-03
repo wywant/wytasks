@@ -1,5 +1,6 @@
 # References
 [Spring Boot Reference Guide](https://spring.io/projects/spring-boot#learn)  
+[A Comparison Between Spring and Spring Boot](https://www.baeldung.com/spring-vs-spring-boot)  
 
 # Spring Boot 项目是一个Maven或者Gradle项目
 声明式依赖
