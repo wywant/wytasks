@@ -26,7 +26,15 @@ The @SpringBootApplication annotation is equivalent to using @Configuration, @En
 所有的程序发布到一个Jar里面， 区别与普通的web程序打包成war文件
 # 工具支持
 
-## Spring Boot CLI
+# Spring Boot CLI
+
+# Developer Tools
+## 开发中的服务器自动重启
+
+## Remote Applications
+远程的方式运行程序
+
+
 
 
 
